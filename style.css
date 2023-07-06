@@ -504,8 +504,7 @@ select {
 .resume-grid {
     display: grid;
     grid-template-columns: repeat(2, minmax(auto, 450px));
-    justify-content: center;
-    row-gap: 10px;
+    justify-content: space-around;
     column-gap: 50px;
 }
 
