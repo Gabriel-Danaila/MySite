@@ -137,6 +137,8 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 // * == == == ==   form submitin code on server side    == == == ==
+//use formbold.com link to subbmit mesages to my email adress
+
 // const express = require('express');
 // const bodyParser = require('body-parser');
 // const app = express();

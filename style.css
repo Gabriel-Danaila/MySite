@@ -490,7 +490,7 @@ select {
     opacity: 0;
     filter: blur(5px);
     transform: translateX(-100%);
-    transition: all 1s
+    transition: all .5s
 }
 
 .show {
